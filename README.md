@@ -2,6 +2,10 @@
 
 A Python-based AI-powered desktop virtual assistant with voice recognition, text input, and smart responses using Google Gemini AI.
 
+## 📸 Screenshot
+
+![Virtual Assistant](Screenshot%202026-03-19%20202420.png)
+
 ---
 
 ## ✨ Features
